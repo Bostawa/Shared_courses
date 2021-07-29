@@ -1,7 +1,9 @@
 # Shared_courses
 --------------- NOTES -----------------------
-Guys, there is a mix of youtube, university courses and other stuff.  
-There is a lot of material.  
+Hi. I created this repository to invite you for sharing materials on Data science.
+There is a mix of materials from different sources, university courses and other stuff I guess can be useful
+in our mutual curiosity outside of our useful business hours. Please, do not hesitate to add your materials 
+to share it further on.
 Some of them are marked with ***** which me and some of my colleagues-users consider to rank good to excellent.
 I am planning on going through them to find references, quizzes, tests, projects, etc.
 There are probably some duplicates.  I have not cleaned it up completely.
